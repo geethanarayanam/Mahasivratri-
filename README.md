@@ -94,7 +94,7 @@
     <script>
         function startExperience() {
             // Play the audio
-            var audio = document.getElementById('divineAudio');
+            var audio = document.getElementById('OM Namasivaya🕉️');
             audio.play();
 
             // Reveal the content
