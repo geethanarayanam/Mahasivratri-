@@ -79,7 +79,8 @@
 
     <div class="container">
         <img src="https://img.freepik.com/premium-photo/wedding-lord-shiva-goddess-parvati-vibrant-colors-intricate-details-mythological-art_1263595-3490.jpg" 
-             alt="Shiva Parvati Marriage" class="marriage-img">
+             alt="Shiva Parvati Marriage" class="marriage-img"><img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a3b1e6cc-1614-4e17-8bb7-ca1f358141c4" />
+
         
         <h1>Har Har Mahadev</h1>
         <p>Experience the divine union of Shiva and Shakti.</p>
