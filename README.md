@@ -72,12 +72,9 @@
 </head>
 <body>
 
-    <audio id="divineAudio" loop>
-        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-
-    <div class="container">
+    <audio id="chant Om Namasivaya" loop>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix>
+         <div class="container">
         <img src="https://img.freepik.com/premium-photo/wedding-lord-shiva-goddess-parvati-vibrant-colors-intricate-details-mythological-art_1263595-3490.jpg" 
              alt="Shiva Parvati Marriage" class="marriage-img"><img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a3b1e6cc-1614-4e17-8bb7-ca1f358141c4" />
 
